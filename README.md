@@ -17,7 +17,7 @@ Reviewed the columns to ensure that text, dates, and numeric values were in thei
 
 Formatted Text Using Excel Formulas
 
-Applied the PROPER function to columns with textual data (like titles, director names, or genres) to standardize capitalization — making the dataset cleaner and more readable.
+Applied the PROPER function to columns with textual data (like Titles, Director ,Cast,Country) to standardize capitalization — making the dataset cleaner and more readable.
 
 Converted Data into a Proper Table Format
 
